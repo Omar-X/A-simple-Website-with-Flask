@@ -1,0 +1,39 @@
+*{
+    /*margin: auto;*/
+    /*border: 5px solid #FFFF00;*/
+    /*or*/
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%,-50%);*/
+}
+
+.incre{
+    text-align: center;
+    padding: 5px;
+    width: 600px;
+    height: 800px;
+    background: url("pexels-pixabay-461428.jpg") wheat;
+}
+
+
+
+h2{
+    color: darkred;
+    width: 300px;
+    margin: auto;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+button_1{
+    border: none;
+    width: 200px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 10px;
+    text-align: center;
+    background: cornflowerblue;
+    border-radius: 10px;
+}
